@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Probot. GitHub Apps to automate and improve your workflow.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Use pre-built apps to extend GitHub, and easily build and share your own.
 
 ## Getting started
 
